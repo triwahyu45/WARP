@@ -10,7 +10,7 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/WARP` | `.agents/skills/WARP` |
+| **Antigravity** | Global Antigravity skills dir | `.agents/skills/WARP` |
 | **Claude Code** | `~/.claude/skills/WARP` | `.claude/skills/WARP` |
 | **OpenAI Codex** | `~/.codex/skills/WARP` | `.agents/skills/WARP` |
 
