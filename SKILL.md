@@ -1,5 +1,5 @@
 ---
-name: warp
+name: WARP
 description: Ultra-low latency Windows remote desktop and game-streaming optimization guide covering 60 FPS GPU-accelerated RDP over Tailscale and Moonlight + Sunshine/VibeShine host/Wi-Fi/kernel tuning for Android tablets and remote clients.
 ---
 

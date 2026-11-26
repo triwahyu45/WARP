@@ -1,4 +1,4 @@
-# warp — Ultra-Low Latency Windows RDP & Moonlight Streaming
+# WARP — Ultra-Low Latency Windows RDP & Moonlight Streaming
 
 AI Agent Skill for **Antigravity**, **Claude Code**, and **OpenAI Codex**. Tuning playbook for 60 FPS GPU-accelerated Windows RDP over Tailscale and Moonlight + Sunshine/VibeShine host/Wi-Fi/kernel tuning for Android tablets and remote clients.
 
@@ -10,13 +10,13 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/warp` | `.agents/skills/warp` |
-| **Claude Code** | `~/.claude/skills/warp` | `.claude/skills/warp` |
-| **OpenAI Codex** | `~/.codex/skills/warp` | `.agents/skills/warp` |
+| **Antigravity** | `~/.gemini/config/skills/WARP` | `.agents/skills/WARP` |
+| **Claude Code** | `~/.claude/skills/WARP` | `.claude/skills/WARP` |
+| **OpenAI Codex** | `~/.codex/skills/WARP` | `.agents/skills/WARP` |
 
 ```bash
 # Example (Antigravity / Claude Code / Codex — pick your path):
-git clone https://github.com/triwahyu45/warp.git ~/.claude/skills/warp
+git clone https://github.com/triwahyu45/WARP.git ~/.claude/skills/WARP
 ```
 
 ---
